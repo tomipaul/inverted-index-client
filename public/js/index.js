@@ -1,0 +1,1 @@
+angular.module('plummage', ['angularFileUpload', 'angular.filter']);

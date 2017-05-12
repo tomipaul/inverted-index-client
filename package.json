@@ -1,0 +1,32 @@
+{
+  "name": "inverted-index-client",
+  "version": "1.0.0",
+  "description": "A frontend implementation for an inverted index application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomipaul/inverted-index-client.git"
+  },
+  "keywords": [
+    "webpack",
+    "gulp",
+    "search",
+    "client-side",
+    "angularjs"
+  ],
+  "author": "Oluwatomi Akande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomipaul/inverted-index-client/issues"
+  },
+  "homepage": "https://github.com/tomipaul/inverted-index-client#readme",
+  "devDependencies": {
+    "webpack": "^2.5.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
